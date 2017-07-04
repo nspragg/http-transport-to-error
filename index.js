@@ -1,1 +1,1 @@
-module.exports.createClient = require('./lib/toError');
+module.exports = require('./lib/toError');
