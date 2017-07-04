@@ -2,7 +2,7 @@
 
 # HttpTransportToError
 
-> Middle to handle error conversion
+> Middleware convert 4XX and 5XX responses to errors
 
 ## Installation
 
