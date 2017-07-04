@@ -1,7 +1,7 @@
 {
   "name": "http-transport-to-error",
   "version": "1.0.0",
-  "description": "Middle to handle error conversion",
+  "description": "Middleware to handle error conversion",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
